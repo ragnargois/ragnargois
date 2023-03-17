@@ -6,7 +6,7 @@
 
 ## Tecnologias que eu uso no meu dia a dia
 
-<div style="display: inline_block"></br>
+<div style="display: inline_block; margin-bottom:30px;"></br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" aling="center"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="html5" aling="center"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" aling="center"/>
@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="java script" aling="center"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node js" aling="center"/>    
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 Sempre em busca de conhecimento de FrontEnd 💻</br>
@@ -23,4 +25,3 @@ Formado em Gestão Empresarial</br>
 Ilustrador 🧑‍🎨</br>
 Viciado em MTB 🚴🏻 - 100k 🔓</br>
 Rato de academia 🏋️
-
