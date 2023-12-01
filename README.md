@@ -24,5 +24,5 @@ Sempre em busca de conhecimento de FrontEnd 💻</br>
 Estudante Eng. da Computação (esse ano vai 🙏)<br>
 Formado em Gestão Empresarial</br>
 Ilustrador 🧑‍🎨</br>
-Viciado em MTB 🚴🏻 - 100k 🔓</br>
+Bike MTB 🚴🏻 - 100k 🔓</br>
 Rato de academia 🏋️
