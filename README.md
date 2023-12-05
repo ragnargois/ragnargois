@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="java script" aling="center"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node js" aling="center"/>    
 </div>
-
+</br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
