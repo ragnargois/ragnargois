@@ -20,8 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-Sempre em busca de conhecimento de FrontEnd 💻</br>
-Estudante Eng. da Computação (esse ano vai 🙏)<br>
+Sempre em busca de novos conhecimentos e estudante de Front-End 💻</br>
+Formado Eng. da Computação 🙏<br>
 Formado em Gestão Empresarial</br>
 Ilustrador 🧑‍🎨</br>
 Bike MTB 🚴🏻 - 100k 🔓</br>
