@@ -1,5 +1,11 @@
 ### Olá! Eu sou o Alex Gois 👍
 <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:alex-gois@hotmail.com"><img src="./assets/img/outlook.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexgois/" target="_blank"><img src="./assets/img/linkedin.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tinyurl.com/bddy49sc"><img src="./assets/img/whatsapp.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><br>
 
 ### 📚 Um pouco sobre minha trajetória de estudos 
 
