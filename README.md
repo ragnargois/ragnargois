@@ -62,7 +62,6 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 Sempre em busca de novos conhecimentos e estudante de Front-End 💻</br>
