@@ -22,7 +22,13 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragnargois) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgois/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alexgois1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ragnar.gois/)
 
-![Ragnar GitHub stats](https://github-readme-stats.vercel.app/api?username=ragnargois&show_icons=true&theme=dracula)
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=ragnargois&show_icons=true&theme=dracula" alt="ragnargois's stats"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois&layout=compact&theme=dracula" alt="ragnargois's most languages"/>
+</a>
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
