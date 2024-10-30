@@ -74,7 +74,6 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/python-original.svg" alt="python">&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 <br>
 
