@@ -22,6 +22,21 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragnargois) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgois/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alexgois1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ragnar.gois/)
 
+<br><br>
+
+<div align="center">
+
+<a href="https://alexgois.com.br" target="_blank">
+<img src="./assets/img/undraw_web_devices_re_m8sc.svg" width="300">
+
+# [Confira meu portfólio (em andamento)](https://alexgois.com.br)
+
+</a>
+</div>
+
+<br><br>
+
+# <img src="./assets/img/engrenagem.png" width="45" align="center"> &nbsp;GitHub Analytics
 
 <div align="center">
 
