@@ -77,9 +77,12 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 <br>
 <br>
 
-Sempre em busca de novos conhecimentos e estudante de Front-End 💻</br>
-Formado Eng. da Computação 🙏<br>
-Formado em Gestão Empresarial</br>
-Ilustrador 🧑‍🎨</br>
-Bike MTB 🚴🏻 - 100k 🔓</br>
-Rato de academia 🏋️
+<img src="./assets/img/174527160001202.gif" width="220px">
+<br>
+<img src="https://komarev.com/ghpvc/?username=Ragnargois&color=red&base=1000">
+
+###### Alex Gois &copy;
+
+</div>
+
+<img src="./assets/img/wave.svg">
