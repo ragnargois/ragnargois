@@ -46,10 +46,10 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 # <img src="./assets/img/engrenagem.png" width="45" align="center"> &nbsp;GitHub Analytics
 
 <div align="center">
-
+<br>
+<br>
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=ragnargois&show_icons=true&theme=dracula" alt="ragnargois's stats"/>
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois&layout=compact&theme=dracula" alt="ragnargois's most languages"/>
-</a>
 
 </div>
 
