@@ -3,8 +3,7 @@
 <br>
 
 ### Olá! Eu sou o Alex Gois 👍
-<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:alex-gois@hotmail.com"><img src="./assets/img/email.png" width="45"></a>
 <a href="https://www.linkedin.com/in/alexgois/" target="_blank"><img src="./assets/img/linkedin.png" width="40"></a>
 <a href="https://tinyurl.com/bddy49sc"><img src="./assets/img/whatsapp.png" width="40">
