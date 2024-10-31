@@ -51,6 +51,7 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnargois&layout=compact&theme=dracula" alt="ragnargois's most languages"/>
 </a>
 
+</div>
 
 <div style="display: inline_block; margin-bottom:30px;"></br>
 ## Tecnologias que eu uso no meu dia a dia 💡
