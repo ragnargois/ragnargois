@@ -7,7 +7,7 @@
 
 <br><br>
 
-### 📚 Um pouco sobre minha trajetória de estudos 
+### 📚 Minha trajetória de estudos 
 
 <p>Meu nome é Alex, sou brasileiro e formado em Engenharia de Computação pela 
 UNIVESP e em Gestão Empresarial pela Fatec de Praia Grande/SP. Trabalho como web 
