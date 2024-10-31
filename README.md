@@ -7,7 +7,7 @@
 <br>
 
 <a href="mailto:alex-gois@hotmail.com"><img src="./assets/img/email.png" width="45"></a>
-<a href="https://www.linkedin.com/in/alexgois/" target="_blank"><img src="./assets/img/linkedin.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alexgois/" target="_blank"><img src="./assets/img/linkedin.png" width="45"></a>
 <a href="https://tinyurl.com/bddy49sc"><img src="./assets/img/whatsapp.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><br>
