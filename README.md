@@ -34,7 +34,7 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 <div align="center">
 
 <a href="https://alexgois.com.br" target="_blank">
-<img src="./assets/img/wave.svg" width="400">
+<img src="./assets/img/wave.svg">
 
 # [Confira meu portfólio (em andamento)](https://alexgois.com.br)
 
@@ -93,4 +93,4 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 
 </div>
 
-<img src="./assets/img/wave.svg">
+
