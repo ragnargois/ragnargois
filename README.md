@@ -43,7 +43,7 @@ desenvolvi ao longo dos anos e meus estudos desenvolvendo projetos em Frontend.<
 
 <br><br>
 
-# <img src="./assets/img/engrenagem.png" width="45" align="center"> &nbsp;GitHub Analytics
+# <img src="./assets/img/enginer.png" width="45" align="center"> &nbsp;GitHub Analytics
 
 <div align="center">
 <br>
